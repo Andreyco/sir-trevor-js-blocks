@@ -1,7 +1,7 @@
 sir-trevor-js-captioned-image
 =============================
 
-Drop-in image replacement block for SirTrevor JS editor which adds caption to images.  
+Drop-in image replacement block for [Sir Trevor](https://github.com/madebymany/sir-trevor-js) editor which adds caption to images.  
 
 **This block will not break any of your application code, nor content written in Sir Trevor previously!**
 
@@ -19,3 +19,6 @@ To initialize `Captioned image` block include these files after SirTrevor
 <link rel="stylesheet" type="text/css" href="sir-trevor-js-blocks/captioned-image.css"/>
 <script src="sir-trevor-js-blocks/captioned-image.js"></script>
 ```
+
+##To-do
+- add example
